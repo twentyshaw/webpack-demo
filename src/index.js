@@ -9,7 +9,7 @@ function component() {
 
     // Lodash, now imported by this script
 
-    element.html(_.join(['Hello','webpack'],' '));
+    element.html(_.join(['AAA','webpack'],' '));
   
     return element.get(0);
   }
